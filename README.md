@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/srichaithanyareddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
 | [1876-map-of-highest-peak](https://github.com/srichaithanyareddy/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/srichaithanyareddy/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srichaithanyareddy/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srichaithanyareddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
