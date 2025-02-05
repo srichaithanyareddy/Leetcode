@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/srichaithanyareddy/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/srichaithanyareddy/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2580-circular-sentence](https://github.com/srichaithanyareddy/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srichaithanyareddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3451-string-compression-iii](https://github.com/srichaithanyareddy/Leetcode/tree/master/3451-string-compression-iii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srichaithanyareddy/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/srichaithanyareddy/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/srichaithanyareddy/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
