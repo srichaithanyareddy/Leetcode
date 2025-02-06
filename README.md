@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/srichaithanyareddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1876-map-of-highest-peak](https://github.com/srichaithanyareddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/srichaithanyareddy/Leetcode/tree/master/2145-grid-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srichaithanyareddy/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
