@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/srichaithanyareddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/srichaithanyareddy/Leetcode/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srichaithanyareddy/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srichaithanyareddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srichaithanyareddy/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/srichaithanyareddy/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
@@ -86,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
