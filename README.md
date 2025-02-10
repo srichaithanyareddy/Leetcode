@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/srichaithanyareddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2580-circular-sentence](https://github.com/srichaithanyareddy/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srichaithanyareddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/srichaithanyareddy/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/srichaithanyareddy/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/srichaithanyareddy/Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/srichaithanyareddy/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
