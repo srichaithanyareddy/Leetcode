@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/srichaithanyareddy/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/srichaithanyareddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/srichaithanyareddy/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2145-grid-game](https://github.com/srichaithanyareddy/Leetcode/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/srichaithanyareddy/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/srichaithanyareddy/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/srichaithanyareddy/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/srichaithanyareddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/srichaithanyareddy/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
