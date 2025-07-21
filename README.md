@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/srichaithanyareddy/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/srichaithanyareddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/srichaithanyareddy/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/srichaithanyareddy/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/srichaithanyareddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/srichaithanyareddy/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srichaithanyareddy/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/srichaithanyareddy/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2145-grid-game](https://github.com/srichaithanyareddy/Leetcode/tree/master/2145-grid-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/srichaithanyareddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
